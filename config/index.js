@@ -20,9 +20,10 @@ export const config = {
       {"name": "冰冰", "year": "2002", "date": "05-29", "type": 'new'},
       {"name": "昱昱", "year": "2001", "date": "12-26", "type": 'new'},
     ],
+    // 认识的日子，格式同上
+    loveDate: "2022-07-15",
     // 在一起的日子，格式同上
     loveDate: "2022-07-27",
-    
 //城市：{{city.DATA}}  
 //天气：{{weather.DATA}}  
 //最低气温: {{min_temperature.DATA}}  
